@@ -1,4 +1,4 @@
-# Predicting Restaurant Tips using Excel
+# Predicting Restaurant Tips With Excel
 
 This project aims to build a predictive model for restaurant tips using Microsoft Excel and the Data Analysis Add-in. The dataset contains various features of customer dining behavior, such as bill amount, customer demographics, and dining preferences. By using regression analysis, we develop a mathematical equation to predict tips and evaluate the model's performance.
 
